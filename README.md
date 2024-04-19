@@ -8,8 +8,10 @@
 - Keybinds
 - Plot cleaning helper
 - Auto cookie
+- Auto God Potion
 - Failsafe
 - Fast Break
 - Custom HUD
 - Auto Sell
-- Profit HUD
+- Profit calculator
+- Remote Control
