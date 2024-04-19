@@ -1,17 +1,18 @@
 # Farming Macro
-- New SkyBlock Farming Macro mod
+New SkyBlock Farming Macro mod
 ## Macro functions
 - Visitors Macro
 - Pests Destroyer
-- Discord Integration
 - Any kind of macro
-- Keybinds
+- Fast Break
 - Plot cleaning helper
+- Failsafe
+## QOL
+- Keybinds
 - Auto cookie
 - Auto God Potion
-- Failsafe
-- Fast Break
 - Custom HUD
 - Auto Sell
 - Profit calculator
 - Remote Control
+- Discord Integration
